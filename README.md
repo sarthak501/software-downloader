@@ -1,3 +1,7 @@
+Software download
+Software downloader
+SOftware-downloader
+
 Helps you download any Software, Game,Apps on our Laptop/Pc for free.
 https://sarthak501.github.io/software-downloader/
 
